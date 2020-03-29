@@ -1,6 +1,5 @@
 import * as d3 from "d3";
 import playerData from './players';
-import './style.css';
 
 let svg = d3.selectAll('#main')
     .attr("width", 860)
@@ -40,7 +39,7 @@ svg.selectAll('line')
     .attr('x2', d => xScale(getLatestSeason(d)))
     .attr('y1', d => yScale(d.index) + paddingTop)
     .attr('y2', d => yScale(d.index) + paddingTop)
-    .attr('stroke', 'black');
+    .attr('stroke', '#00004c');
 
 svg.selectAll('text')
     .data(playerDataWithIndex)
@@ -56,8 +55,6 @@ var div = d3.select("body").append("div")
     .attr("class", "tooltip")				
     .style("opacity", 0);
 
-// let tooltip = svg.append('g')
-//     .attr("class", "tooltip");
 
 let i = 0
 playerDataWithIndex.map(player => {
@@ -69,7 +66,7 @@ playerDataWithIndex.map(player => {
         .attr('cx', d => xScale(d.number))
         .attr('cy', d => yScale(player.index) + paddingTop)
         .attr('r', 5)
-        .attr('fill', d => d.winner ? '#00a300' : 'black')
+        .attr('fill', d => d.winner ? '#19a319' : '#00004c')
         .on('mouseenter', function(d) {
 
             let tooltip = svg.append('g')
