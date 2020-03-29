@@ -1,0 +1,219 @@
+[
+    {
+        "name" : "Natalie Anderson",
+        "seasons": [{
+            "name": "San Juan del Sur -- Blood vs. Water",
+            "number": 29,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Tyson Apostol",
+        "seasons": [{
+            "name": "Tocantins",
+            "number": 18,
+            "winner": false
+        }, {
+            "name": "Heroes vs. Villains",
+            "number": 20,
+            "winner": false
+        }, {
+            "name": "Blood vs. Water",
+            "number": 27,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Danni Boatwrite",
+        "seasons": [{
+            "name": "Guatemala",
+            "number": 11,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Sopie Georgina Clarke",
+        "seasons": [{
+            "name": "South Pacific",
+            "number": 23,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Jeremy Collins",
+        "seasons": [{
+            "name": "San Juan del Sur -- Blood vs. Water",
+            "number": 11,
+            "winner": false
+        }, {
+            "name": "Cambodia -- Second Chance",
+            "number": 31,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Sandra Diaz-Twine",
+        "seasons": [{
+            "name": "Pearl Islands",
+            "number": 7,
+            "winner": true
+        }, {
+            "name": "Heroes vs. Villains",
+            "number": 20,
+            "winner": true
+        }, {
+            "name": "Game Changers",
+            "number": 34,
+            "winner": false
+        }]
+    },
+    {
+        "name" : "Ben Driebergen",
+        "seasons": [{
+            "name": "Heroes v. Healers vs. Hustlers",
+            "number": 35,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Michele Fitzgerald",
+        "seasons": [{
+            "name": "Kaôh Rōng",
+            "number": 32,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Wendell Holland",
+        "seasons": [{
+            "name": "Ghost Island",
+            "number": 36,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Adam Klein",
+        "seasons": [{
+            "name": "Millenails vs. Gen X",
+            "number": 33,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Yul Kwon",
+        "seasons": [{
+            "name": "Cook Islands",
+            "number": 13,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Sarah Lacina",
+        "seasons": [{
+            "name": "Cayugan",
+            "number": 28,
+            "winner": false
+        },{
+            "name": "Game Changers",
+            "number": 34,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Amber Mariano",
+        "seasons": [{
+            "name": "The Australian Outback",
+            "number": 2,
+            "winner": false
+        },{
+            "name": "All-Stars",
+            "number": 8,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Rob Mariano",
+        "seasons": [{
+            "name": "Marquesas",
+            "number": 4,
+            "winner": false
+        },{
+            "name": "All-Stars",
+            "number": 8,
+            "winner": false
+        },{
+            "name": "Heroes vs. Villains",
+            "number": 20,
+            "winner": false
+        }, {
+            "name": "Redemption Island",
+            "number": 22,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Parvati Shallow",
+        "seasons": [{
+            "name": "Cook Islands",
+            "number": 13,
+            "winner": false
+        },{
+            "name": "Micronesia — Fans vs. Favorites",
+            "number": 16,
+            "winner": true
+        }, 
+        {
+            "name": "Heroes vs. Villains",
+            "number": 20,
+            "winner": false
+        }]
+    },
+    {
+        "name" : "Kim Spradlin-Wolfe",
+        "seasons": [{
+            "name": "One World",
+            "number": 24,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Denise Stapley",
+        "seasons": [{
+            "name": "Phillipines",
+            "number": 25,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Tony Vlachos",
+        "seasons": [{
+            "name": "Cagayan",
+            "number": 28,
+            "winner": true
+        }, {
+            "name": "Game Changers",
+            "number": 34,
+            "winner": false
+        }]
+    },
+    {
+        "name" : "Nick Wilson",
+        "seasons": [{
+            "name": "David vs. Goliath",
+            "number": 37,
+            "winner": true
+        }]
+    },
+    {
+        "name" : "Ethan Zohn",
+        "seasons": [{
+            "name": "Africa",
+            "number": 3,
+            "winner": true
+        }, {
+            "name": "All-Stars",
+            "number": 8,
+            "winner": false
+        }]
+    }
+]

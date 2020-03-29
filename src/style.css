@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #f8f8e6;
+}
+
+.tag {
+    font-size:14px;
+    font-weight:bold;
+}
+
+h1 {
+    font-family: 'Vollkorn', serif;
+    font-size: 4em;
+    font-weight: 400;
+    margin-top:0px;
+    margin-bottom:20px;
+    margin-left:0px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 800px;
+    margin-top:80px;
+}
+
+svg {
+    font-size: 14px;
+}
+
+footer {
+    text-align:center;
+    margin-bottom:20px;
+    color:gray;
+}
+
+footer a {
+    color: gray;
+}
+
+@media (max-width: 500px) {
+    h1 {
+        font-size: 34px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .main {
+        padding: 0 25px 0 25px;
+    }
+
+    svg {
+        overflow: scroll;
+        white-space: nowrap;
+    }
+}
